@@ -1,0 +1,26 @@
+body{
+    background-image: url(./images/bkg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 230px;
+}
+ul{
+    width: 1050px;
+    height: 40px;
+   background-color: purple;
+   margin-left: -10px;
+}
+ul,li{
+    list-style-type: none;
+    display: inline-block;
+}
+ul,a{
+    word-spacing: 150px;
+    text-decoration: none;
+    color: pink;
+}
+a:hover{
+    background-color: blueviolet ;
+    colOR:black;
+}
